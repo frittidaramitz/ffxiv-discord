@@ -1,0 +1,2 @@
+# ffxiv-discord
+testing lodestone 
